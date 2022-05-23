@@ -1,0 +1,164 @@
+[
+      {
+            "universityName": " \u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 ",
+            "universityLogo": "bd295655-44d9-4ebf-aacf-532fa788e1d3",
+            "universityAdress": "656049, \u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0433. \u0411\u0430\u0440\u043d\u0430\u0443\u043b, \u0443\u043b. \u041b\u0435\u043d\u0438\u043d\u0430, \u0434. 61",
+            "linkPlaces": "https://www.asu.ru/files/documents/00025000.pdf",
+            "universityInfo": {
+                  "gradePointAverage": " 74.4",
+                  "ratingChange": " 1.7",
+                  "budgetPlaces": " 1420",
+                  "withoutEntranceTests": " 23",
+                  "minusID": " \u0414\u0430",
+                  "hasMilitaryDepartment": false,
+                  "hasArmyRespite": false
+            },
+            "bachelor": {
+                  "name": "\u0431\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u0438\u0430\u0442",
+                  "budgetPlaces": 9,
+                  "gradePointAverage": 244.0,
+                  "educationCost": 101240
+            },
+            "magistracy": {
+                  "name": "\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+                  "budgetPlaces": null,
+                  "gradePointAverage": null,
+                  "educationCost": null
+            }
+      },
+      {
+            "universityName": " \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 ",
+            "universityLogo": "ae7078a1-9027-4024-af9a-7275afdd1596",
+            "universityAdress": "367000, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d, \u0433.\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430, \u0443\u043b. \u0411\u0430\u0442\u044b\u0440\u0430\u044f, 2, \u0414\u0432\u043e\u0440\u0435\u0446 \u0441\u043f\u043e\u0440\u0442\u0430 \u0414\u0413\u0423",
+            "linkPlaces": "http://dgu.ru/Abitur/?id=15247",
+            "universityInfo": {
+                  "gradePointAverage": " 63.0",
+                  "ratingChange": " -0.4",
+                  "budgetPlaces": " 1025",
+                  "withoutEntranceTests": " 19",
+                  "minusID": " \u041d\u0435\u0442",
+                  "hasMilitaryDepartment": false,
+                  "hasArmyRespite": true
+            },
+            "bachelor": {
+                  "name": "\u0431\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u0438\u0430\u0442",
+                  "budgetPlaces": 0,
+                  "gradePointAverage": 0.0,
+                  "educationCost": 21510
+            },
+            "magistracy": {
+                  "name": 0,
+                  "budgetPlaces": 0,
+                  "gradePointAverage": 0,
+                  "educationCost": 0
+            }
+      },
+      {
+            "universityName": " \u041a\u0430\u0437\u0430\u043d\u0441\u043a\u0438\u0439 (\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439) \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442",
+            "universityLogo": "cf12a1e1-a102-467f-a2df-f2a96ef1e8ad",
+            "universityAdress": "420008, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d, \u0433. \u041a\u0430\u0437\u0430\u043d\u044c, \u0443\u043b. \u041a\u0440\u0435\u043c\u043b\u0435\u0432\u0441\u043a\u0430\u044f, \u0434.18",
+            "linkPlaces": "https://admissions.kpfu.ru/priem-v-universitet/plan-priema-2021-kolichestvo-mest-vstupitelnye-ispytaniya-i-minimalnye-bally",
+            "universityInfo": {
+                  "gradePointAverage": " 80.0",
+                  "ratingChange": " -0.5",
+                  "budgetPlaces": " 2893",
+                  "withoutEntranceTests": " 10",
+                  "minusID": " \u0414\u0430",
+                  "hasMilitaryDepartment": false,
+                  "hasArmyRespite": true
+            },
+            "bachelor": {
+                  "name": "\u0431\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u0438\u0430\u0442",
+                  "budgetPlaces": 4,
+                  "gradePointAverage": 260.0,
+                  "educationCost": 132360
+            },
+            "magistracy": {
+                  "name": 0,
+                  "budgetPlaces": 0,
+                  "gradePointAverage": 0,
+                  "educationCost": 0
+            }
+      },
+      {
+            "universityName": " \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u043c\u0435\u043d\u0438 \u041c.\u0412. \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430",
+            "universityLogo": "c0e2707c-2b2c-4ad6-833f-84d1c7a4f2df",
+            "universityAdress": "119991,\u0433. \u041c\u043e\u0441\u043a\u0432\u0430, \u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0435 \u0413\u043e\u0440\u044b,\u0434.1",
+            "linkPlaces": "http://cpk.msu.ru/files/2021/kcp_bak.pdf",
+            "universityInfo": {
+                  "gradePointAverage": " 90.2",
+                  "ratingChange": " -0.6",
+                  "budgetPlaces": " 3835",
+                  "withoutEntranceTests": " 496",
+                  "minusID": " \u0414\u0430",
+                  "hasMilitaryDepartment": true,
+                  "hasArmyRespite": true
+            },
+            "bachelor": {
+                  "name": "\u0431\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u0438\u0430\u0442",
+                  "budgetPlaces": null,
+                  "gradePointAverage": null,
+                  "educationCost": null
+            },
+            "magistracy": {
+                  "name": "\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+                  "budgetPlaces": null,
+                  "gradePointAverage": null,
+                  "educationCost": null
+            }
+      },
+      {
+            "universityName": " \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0422\u043e\u043c\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442",
+            "universityLogo": "9dcc834c-4241-4fcd-b482-005315a24f28",
+            "universityAdress": "634050, \u0433. \u0422\u043e\u043c\u0441\u043a, \u043f\u0440. \u041b\u0435\u043d\u0438\u043d\u0430 36",
+            "linkPlaces": "http://abiturient.tsu.ru/sites/default/files/prilozhenie_1.1_bakalavriat_i_specialitet_16032021.pdf",
+            "universityInfo": {
+                  "gradePointAverage": " 80.1",
+                  "ratingChange": " 0.7",
+                  "budgetPlaces": " 2109",
+                  "withoutEntranceTests": " 127",
+                  "minusID": " \u0414\u0430",
+                  "hasMilitaryDepartment": true,
+                  "hasArmyRespite": true
+            },
+            "bachelor": {
+                  "name": "\u0431\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u0438\u0430\u0442",
+                  "budgetPlaces": null,
+                  "gradePointAverage": null,
+                  "educationCost": null
+            },
+            "magistracy": {
+                  "name": "\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430",
+                  "budgetPlaces": null,
+                  "gradePointAverage": null,
+                  "educationCost": null
+            }
+      },
+      {
+            "universityName": " \u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u043c\u0435\u043d\u0438 \u041d. \u0413. \u0427\u0435\u0440\u043d\u044b\u0448\u0435\u0432\u0441\u043a\u043e\u0433\u043e",
+            "universityLogo": "c8963b8c-56ef-4480-8fd1-69d204ca9855",
+            "universityAdress": "410012, \u0433.\u0421\u0430\u0440\u0430\u0442\u043e\u0432, \u0443\u043b.\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f, 83",
+            "linkPlaces": "https://www.sgu.ru/admission/priemnaya-kampaniya-2022",
+            "universityInfo": {
+                  "gradePointAverage": " 69.9",
+                  "ratingChange": " 1.2",
+                  "budgetPlaces": " 1568",
+                  "withoutEntranceTests": " 3",
+                  "minusID": " \u0414\u0430",
+                  "hasMilitaryDepartment": false,
+                  "hasArmyRespite": true
+            },
+            "bachelor": {
+                  "name": "\u0431\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u0438\u0430\u0442",
+                  "budgetPlaces": null,
+                  "gradePointAverage": null,
+                  "educationCost": null
+            },
+            "magistracy": {
+                  "name": 0,
+                  "budgetPlaces": 0,
+                  "gradePointAverage": 0,
+                  "educationCost": 0
+            }
+      }
+]
